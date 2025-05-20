@@ -14,7 +14,7 @@ import useBannerVisibility from "#/src/utils/BannerVisibility";
 
 const NavItems = [
   { name: "Consultation", href: "/features" },
-  { name: "Services", href: "/product" },
+  { name: "Services", href: "/services" },
   { name: "About", href: "/about" },
 ];
 
