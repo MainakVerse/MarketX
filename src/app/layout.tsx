@@ -24,33 +24,33 @@ export const viewport: Viewport = {
 export const metadata: Metadata = {
   title: {
     template: "MarketX | %s",
-    default: "MarketX | NextJS SaaS Landing",
+    default: "MarketX | One Stop Marketing AI",
   },
   description:
-    "MarketX is a modern SaaS Landing Page template built with NextJS. It's designed to provide a seamless and engaging experience for showcasing software products, especially those in the tech and startup niches.",
+    "MarketX is a niche AI Marketing Agency software that allows your to create your own copy, business poster, voice templates and much more.",
   icons: [{ rel: "icon", url: favicon.src }],
-  metadataBase: new URL("https://MarketX.nfteam.eu/"),
+  metadataBase: new URL("https://marketxai-mv.netlify.app/"),
   openGraph: {
-    title: "MarketX | NextJS SaaS Landing",
-    siteName: "MarketX | NextJS SaaS Landing",
+    title: "MarketX | One Stop Marketing AI",
+    siteName: "MarketX | One Stop Marketing AI",
     description:
-      "MarketX is a modern SaaS Landing Page template built with NextJS. It's designed to provide a seamless and engaging experience for showcasing software products, especially those in the tech and startup niches.",
-    url: "https://MarketX.nfteam.eu/",
+      "MarketX is a niche AI Marketing Agency software that allows your to create your own copy, business poster, voice templates and much more.",
+    url: "https://marketxai-mv.netlify.app/",
     type: "website",
-    locale: "hu_HU",
+    locale: "Eng",
     images: [
       {
         url: SummaryLargeImage.src,
         width: SummaryLargeImage.width,
         height: SummaryLargeImage.height,
-        alt: "MarketX | NextJS SaaS Landing",
+        alt: "MarketX | One Stop Marketing AI",
       },
     ],
   },
   twitter: {
-    title: "MarketX | NextJS SaaS Landing",
-    creator: "@nfteam_eu",
-    site: "@nfteam_eu",
+    title: "MarketX | One Stop Marketing AI",
+    creator: "@mainakverse",
+    site: "@marketverse",
     description:
       "MarketX is a modern SaaS Landing Page template built with NextJS. It's designed to provide a seamless and engaging experience for showcasing software products, especially those in the tech and startup niches.",
     card: "summary_large_image",
@@ -59,7 +59,7 @@ export const metadata: Metadata = {
         url: SummaryLargeImage.src,
         width: SummaryLargeImage.width,
         height: SummaryLargeImage.height,
-        alt: "MarketX | NextJS SaaS Landing",
+        alt: "MarketX | One Stop Marketing AI",
       },
     ],
   },
